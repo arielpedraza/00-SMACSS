@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
+
+* {
+  font-family: times;
+}
+
+body {
+  background: #fff;
+}
+
+hr {
+  border: 0;
+  height: 13px;
+  background-image: url('img/hr-img.gif');
+}
+
+h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 2.5em;
+}
+
+main p {
+  color: #333;
+  font-size: 1.2em;
+  line-height: 1.3em;
+  text-indent: 30px;
+}
+
+input {
+  font-family: 'Patrick Hand', cursive;
+}
+
+aside h3 {
+  font-size: 1.6em;
+  color: #555;
+}
+
+aside p {
+  text-indent: 0;
+}
+
+aside button {
+  font-family: 'Abel', sans-serif;
+  text-transform: uppercase;
+  background: #b8705a;
+  color: #fff;
+  font-size: 1.2em;
+  border: none;
+}
+
+footer section p{
+  line-height: 1.5em;
+  text-align: center;
+  color: #aaa;
+}
+
+section hr {
+  border-bottom: 1px solid #eee;
+}
