@@ -9,14 +9,12 @@ body {
 }
 
 hr {
-  clear: both;
   border: 0;
   height: 13px;
   background-image: url('img/hr-img.gif');
 }
 
 h2 {
-  margin-top: 50px;
   font-family: 'Oswald', sans-serif;
   font-size: 2.5em;
 }
@@ -26,7 +24,6 @@ main p {
   font-size: 1.2em;
   line-height: 1.3em;
   text-indent: 30px;
-  margin: 20px 0px;
 }
 
 input {
@@ -55,4 +52,8 @@ footer section p{
   line-height: 1.5em;
   text-align: center;
   color: #aaa;
+}
+
+section hr {
+  border-bottom: 1px solid #eee;
 }
